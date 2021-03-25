@@ -1,3 +1,14 @@
-# Welcome to my blog
+**Hi! I'm Amanda.** 
 
-I'm glad you are here. I plan to talk about ...
+## My Education:
+MSBA, Univesity of Iowa
+BA of Economics, University of Nevada, Las Vegas
+
+## Work Experience:
+Graduate Reaearch and Teaching Assistant at University of Iowa
+
+## My Research Interests:
+
+1. Optimization
+2. Network/Web Analytics
+  
